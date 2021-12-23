@@ -2,7 +2,6 @@
 
 ## 🙂 About Me
 
-- 🚪 Looking for opportunities as a Front-End Developer.
 - 🌱 Currently learning Full Stack Web Development using MERN Stack.
 
 ## 🛠 Tech Stack
